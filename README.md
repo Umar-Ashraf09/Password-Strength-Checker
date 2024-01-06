@@ -14,6 +14,7 @@ Welcome to the Password Strength Checker! This web application allows you to ass
 
 ## Preview
 
+![Password Strength Checker](https://github.com/Umar-Ashraf09/Password-Strength-Checker/assets/92431008/9a739295-22d2-4dad-9fe1-c0c9e8e8e81c)
 
 
 ## Technologies Used
